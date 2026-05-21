@@ -3,5 +3,6 @@ AI-based wearable safety slipper for real-time panic detection, emergency alerts
 
 
 
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/1cdceb24-1694-44cf-8db1-914b23061c2d" />
+<img width="870" height="1010" alt="image" src="https://github.com/user-attachments/assets/f1d95a1c-3f52-4bbf-93a2-4a3f81d36bf9" />
+
 
