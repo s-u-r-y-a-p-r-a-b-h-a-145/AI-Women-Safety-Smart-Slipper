@@ -38,6 +38,11 @@ The microcontroller processes this data using AI-based logic to detect abnormal 
 When danger is detected, the system automatically sends SOS alerts and live location to emergency contacts through GPS and GSM modules while activating local alerts using a buzzer and LCD display.
 
 
+DATA FLOW DIAGRAM
+
+<img width="1742" height="874" alt="image" src="https://github.com/user-attachments/assets/0660f58a-8bb0-42ab-8119-6a229b1a68da" />
+
+
 
 ARCHITECTURE DIAGRAM
 
