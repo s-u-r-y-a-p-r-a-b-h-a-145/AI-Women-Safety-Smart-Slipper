@@ -46,4 +46,10 @@ ARCHITECTURE DIAGRAM
 <img width="1906" height="1194" alt="image" src="https://github.com/user-attachments/assets/a5ec18cc-5d34-499f-9626-679e9ad21876" />
 
 
+## Team Members
+- Shruthi Kumari Jaiswal
+- Shiv Kumar Guptha
+- Surya Prabha B
+- Sugandeepak
+
 
